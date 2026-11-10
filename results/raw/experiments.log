@@ -1,0 +1,125 @@
+# main_bulk_64k: Windows-11-10.0.26300-SP0 | energia=ac | 2026-11-07T09:59:17
+run   1 rep 1 N= 8    34076.4 Mbps  cpu_srv=1.15 cpu_sys= 97.5%  jain=0.988 valid=1 power=ac
+run   2 rep 1 N= 4    29064.6 Mbps  cpu_srv=0.67 cpu_sys= 71.0%  jain=1.000 valid=1 power=ac
+run   3 rep 1 N= 3    26426.2 Mbps  cpu_srv=0.49 cpu_sys= 56.7%  jain=1.000 valid=1 power=ac
+run   4 rep 1 N= 9    38732.7 Mbps  cpu_srv=1.25 cpu_sys= 96.9%  jain=0.988 valid=1 power=ac
+run   5 rep 1 N= 6    32610.3 Mbps  cpu_srv=0.95 cpu_sys= 87.0%  jain=0.998 valid=1 power=ac
+run   6 rep 1 N= 7    36176.0 Mbps  cpu_srv=1.11 cpu_sys= 87.5%  jain=0.998 valid=1 power=ac
+run   7 rep 1 N=10    32172.1 Mbps  cpu_srv=1.18 cpu_sys= 99.8%  jain=0.989 valid=1 power=ac
+run   8 rep 1 N= 5    31474.1 Mbps  cpu_srv=0.85 cpu_sys= 74.8%  jain=1.000 valid=1 power=ac
+run   9 rep 1 N= 1    10171.8 Mbps  cpu_srv=0.22 cpu_sys= 31.9%  jain=1.000 valid=1 power=ac
+run  10 rep 1 N= 2    20212.9 Mbps  cpu_srv=0.37 cpu_sys= 47.5%  jain=1.000 valid=1 power=ac
+run  11 rep 2 N= 4    26851.2 Mbps  cpu_srv=0.59 cpu_sys= 73.8%  jain=1.000 valid=1 power=ac
+run  12 rep 2 N= 6    40188.3 Mbps  cpu_srv=0.99 cpu_sys= 73.7%  jain=1.000 valid=1 power=ac
+run  13 rep 2 N= 3    28139.0 Mbps  cpu_srv=0.52 cpu_sys= 55.0%  jain=1.000 valid=1 power=ac
+run  14 rep 2 N= 5    36261.1 Mbps  cpu_srv=0.76 cpu_sys= 69.8%  jain=1.000 valid=1 power=ac
+run  15 rep 2 N= 2    20785.2 Mbps  cpu_srv=0.36 cpu_sys= 45.8%  jain=1.000 valid=1 power=ac
+run  16 rep 2 N= 9    38973.4 Mbps  cpu_srv=1.26 cpu_sys= 97.8%  jain=0.989 valid=1 power=ac
+run  17 rep 2 N= 8    37657.5 Mbps  cpu_srv=1.20 cpu_sys= 92.7%  jain=0.995 valid=1 power=ac
+run  18 rep 2 N= 1    10861.3 Mbps  cpu_srv=0.21 cpu_sys= 43.5%  jain=1.000 valid=1 power=ac
+run  19 rep 2 N= 7    34379.5 Mbps  cpu_srv=1.03 cpu_sys= 89.5%  jain=0.996 valid=1 power=ac
+run  20 rep 2 N=10    44736.7 Mbps  cpu_srv=1.42 cpu_sys= 96.8%  jain=0.990 valid=1 power=ac
+run  21 rep 3 N= 8    45722.6 Mbps  cpu_srv=1.27 cpu_sys= 83.9%  jain=1.000 valid=1 power=ac
+run  22 rep 3 N= 6    35688.6 Mbps  cpu_srv=0.98 cpu_sys= 82.0%  jain=0.999 valid=1 power=ac
+run  23 rep 3 N= 1     6000.9 Mbps  cpu_srv=0.20 cpu_sys= 78.7%  jain=1.000 valid=1 power=ac
+run  24 rep 3 N= 3    19666.7 Mbps  cpu_srv=0.51 cpu_sys= 72.5%  jain=1.000 valid=1 power=ac
+run  25 rep 3 N= 5    28827.4 Mbps  cpu_srv=0.85 cpu_sys= 83.2%  jain=0.999 valid=1 power=ac
+run  26 rep 3 N=10    41773.3 Mbps  cpu_srv=1.36 cpu_sys= 98.1%  jain=0.991 valid=1 power=ac
+run  27 rep 3 N= 2    22942.6 Mbps  cpu_srv=0.36 cpu_sys= 40.6%  jain=1.000 valid=1 power=ac
+run  28 rep 3 N= 7    36541.1 Mbps  cpu_srv=0.99 cpu_sys= 88.8%  jain=0.999 valid=1 power=ac
+run  29 rep 3 N= 4    32128.1 Mbps  cpu_srv=0.69 cpu_sys= 61.8%  jain=1.000 valid=1 power=ac
+run  30 rep 3 N= 9    39925.8 Mbps  cpu_srv=1.27 cpu_sys= 96.1%  jain=0.993 valid=1 power=ac
+run  31 rep 4 N= 8    33209.7 Mbps  cpu_srv=1.11 cpu_sys= 95.1%  jain=0.999 valid=1 power=ac
+run  32 rep 4 N= 9    40323.1 Mbps  cpu_srv=1.14 cpu_sys= 94.5%  jain=0.998 valid=1 power=ac
+run  33 rep 4 N= 4    23510.0 Mbps  cpu_srv=0.61 cpu_sys= 75.2%  jain=1.000 valid=1 power=ac
+run  34 rep 4 N= 1     8424.5 Mbps  cpu_srv=0.21 cpu_sys= 46.2%  jain=1.000 valid=1 power=ac
+run  35 rep 4 N= 3    23155.8 Mbps  cpu_srv=0.55 cpu_sys= 55.5%  jain=1.000 valid=1 power=ac
+run  36 rep 4 N=10    40470.2 Mbps  cpu_srv=1.30 cpu_sys= 97.8%  jain=0.991 valid=1 power=ac
+run  37 rep 4 N= 2    19685.2 Mbps  cpu_srv=0.36 cpu_sys= 51.8%  jain=1.000 valid=1 power=ac
+run  38 rep 4 N= 5    37078.0 Mbps  cpu_srv=0.82 cpu_sys= 68.1%  jain=1.000 valid=1 power=ac
+run  39 rep 4 N= 6    40246.5 Mbps  cpu_srv=0.94 cpu_sys= 72.4%  jain=1.000 valid=1 power=ac
+run  40 rep 4 N= 7    38009.5 Mbps  cpu_srv=1.12 cpu_sys= 86.7%  jain=0.999 valid=1 power=ac
+run  41 rep 5 N=10    43165.8 Mbps  cpu_srv=1.35 cpu_sys= 97.6%  jain=0.992 valid=1 power=ac
+run  42 rep 5 N= 7    39698.1 Mbps  cpu_srv=1.07 cpu_sys= 83.9%  jain=1.000 valid=1 power=ac
+run  43 rep 5 N= 8    38786.3 Mbps  cpu_srv=1.22 cpu_sys= 92.0%  jain=0.996 valid=1 power=ac
+run  44 rep 5 N= 4    34666.5 Mbps  cpu_srv=0.65 cpu_sys= 57.3%  jain=1.000 valid=1 power=ac
+run  45 rep 5 N= 1    12940.3 Mbps  cpu_srv=0.19 cpu_sys= 31.5%  jain=1.000 valid=1 power=ac
+run  46 rep 5 N= 3    28708.7 Mbps  cpu_srv=0.51 cpu_sys= 52.3%  jain=1.000 valid=1 power=ac
+run  47 rep 5 N= 5    35999.8 Mbps  cpu_srv=0.82 cpu_sys= 66.8%  jain=1.000 valid=1 power=ac
+run  48 rep 5 N= 9    40391.5 Mbps  cpu_srv=1.32 cpu_sys= 96.2%  jain=0.992 valid=1 power=ac
+run  49 rep 5 N= 6    35865.5 Mbps  cpu_srv=0.90 cpu_sys= 81.3%  jain=1.000 valid=1 power=ac
+run  50 rep 5 N= 2    22055.7 Mbps  cpu_srv=0.37 cpu_sys= 41.8%  jain=1.000 valid=1 power=ac
+# fim 2026-11-07T10:12:45 -> C:\VSCODE\redes-sockets-tcp\results\raw\main_bulk_64k.csv
+# line_mode: Windows-11-10.0.26300-SP0 | energia=ac | 2026-11-07T10:12:46
+run   1 rep 1 N= 8       61.9 Mbps  cpu_srv=7.66 cpu_sys= 75.6%  jain=0.999 valid=1 power=ac
+run   2 rep 1 N= 4       37.5 Mbps  cpu_srv=3.91 cpu_sys= 53.7%  jain=1.000 valid=1 power=ac
+run   3 rep 1 N= 3       30.9 Mbps  cpu_srv=2.95 cpu_sys= 42.8%  jain=1.000 valid=1 power=ac
+run   4 rep 1 N= 9       66.4 Mbps  cpu_srv=8.61 cpu_sys= 78.8%  jain=1.000 valid=1 power=ac
+run   5 rep 1 N= 6       47.3 Mbps  cpu_srv=5.82 cpu_sys= 70.5%  jain=0.999 valid=1 power=ac
+run   6 rep 1 N= 7       56.2 Mbps  cpu_srv=6.79 cpu_sys= 70.4%  jain=1.000 valid=1 power=ac
+run   7 rep 1 N=10       68.0 Mbps  cpu_srv=9.53 cpu_sys= 85.3%  jain=1.000 valid=1 power=ac
+run   8 rep 1 N= 5       45.7 Mbps  cpu_srv=4.91 cpu_sys= 56.5%  jain=0.999 valid=1 power=ac
+run   9 rep 1 N= 1       11.6 Mbps  cpu_srv=0.99 cpu_sys= 34.7%  jain=1.000 valid=1 power=ac
+run  10 rep 1 N= 2       21.8 Mbps  cpu_srv=1.99 cpu_sys= 37.0%  jain=1.000 valid=1 power=ac
+run  11 rep 2 N= 4       40.6 Mbps  cpu_srv=3.94 cpu_sys= 48.9%  jain=1.000 valid=1 power=ac
+run  12 rep 2 N= 6       50.4 Mbps  cpu_srv=5.88 cpu_sys= 60.7%  jain=1.000 valid=1 power=ac
+run  13 rep 2 N= 3       29.7 Mbps  cpu_srv=2.97 cpu_sys= 45.3%  jain=0.999 valid=1 power=ac
+run  14 rep 2 N= 5       45.5 Mbps  cpu_srv=4.91 cpu_sys= 52.4%  jain=1.000 valid=1 power=ac
+run  15 rep 2 N= 2       22.4 Mbps  cpu_srv=1.97 cpu_sys= 38.5%  jain=1.000 valid=1 power=ac
+run  16 rep 2 N= 9       61.0 Mbps  cpu_srv=8.39 cpu_sys= 85.7%  jain=1.000 valid=1 power=ac
+run  17 rep 2 N= 8       58.2 Mbps  cpu_srv=7.58 cpu_sys= 79.1%  jain=1.000 valid=1 power=ac
+run  18 rep 2 N= 1       12.7 Mbps  cpu_srv=1.00 cpu_sys= 29.7%  jain=1.000 valid=1 power=ac
+run  19 rep 2 N= 7       57.3 Mbps  cpu_srv=6.80 cpu_sys= 64.3%  jain=1.000 valid=1 power=ac
+run  20 rep 2 N=10       64.7 Mbps  cpu_srv=9.04 cpu_sys= 89.7%  jain=1.000 valid=1 power=ac
+run  21 rep 3 N= 8       61.4 Mbps  cpu_srv=7.61 cpu_sys= 77.8%  jain=1.000 valid=1 power=ac
+run  22 rep 3 N= 6       48.8 Mbps  cpu_srv=5.88 cpu_sys= 62.5%  jain=1.000 valid=1 power=ac
+run  23 rep 3 N= 1       12.2 Mbps  cpu_srv=0.99 cpu_sys= 33.9%  jain=1.000 valid=1 power=ac
+run  24 rep 3 N= 3       30.2 Mbps  cpu_srv=2.96 cpu_sys= 50.3%  jain=1.000 valid=1 power=ac
+run  25 rep 3 N= 5       45.6 Mbps  cpu_srv=4.93 cpu_sys= 55.0%  jain=1.000 valid=1 power=ac
+run  26 rep 3 N=10       65.9 Mbps  cpu_srv=9.29 cpu_sys= 85.1%  jain=1.000 valid=1 power=ac
+run  27 rep 3 N= 2       19.7 Mbps  cpu_srv=1.98 cpu_sys= 33.3%  jain=1.000 valid=1 power=ac
+run  28 rep 3 N= 7       50.1 Mbps  cpu_srv=6.69 cpu_sys= 74.1%  jain=1.000 valid=1 power=ac
+run  29 rep 3 N= 4       35.9 Mbps  cpu_srv=3.96 cpu_sys= 46.8%  jain=1.000 valid=1 power=ac
+run  30 rep 3 N= 9       63.1 Mbps  cpu_srv=8.72 cpu_sys= 78.4%  jain=1.000 valid=1 power=ac
+# fim 2026-11-07T10:18:34 -> C:\VSCODE\redes-sockets-tcp\results\raw\line_mode.csv
+# block_1024: Windows-11-10.0.26300-SP0 | energia=ac | 2026-11-07T10:18:34
+run   1 rep 1 N=10     1209.8 Mbps  cpu_srv=1.72 cpu_sys= 97.0%  jain=1.000 valid=1 power=ac
+run   2 rep 1 N= 1      282.4 Mbps  cpu_srv=0.29 cpu_sys= 37.2%  jain=1.000 valid=1 power=ac
+run   3 rep 2 N=10     1257.2 Mbps  cpu_srv=1.84 cpu_sys= 95.3%  jain=1.000 valid=1 power=ac
+run   4 rep 2 N= 1      299.6 Mbps  cpu_srv=0.35 cpu_sys= 31.6%  jain=1.000 valid=1 power=ac
+run   5 rep 3 N= 1      299.2 Mbps  cpu_srv=0.35 cpu_sys= 39.6%  jain=1.000 valid=1 power=ac
+run   6 rep 3 N=10     1211.8 Mbps  cpu_srv=1.82 cpu_sys= 96.1%  jain=1.000 valid=1 power=ac
+# fim 2026-11-07T10:19:41 -> C:\VSCODE\redes-sockets-tcp\results\raw\block_1024.csv
+# block_4096: Windows-11-10.0.26300-SP0 | energia=ac | 2026-11-07T10:19:41
+run   1 rep 1 N=10     4157.4 Mbps  cpu_srv=1.70 cpu_sys= 97.8%  jain=1.000 valid=1 power=ac
+run   2 rep 1 N= 1     1074.1 Mbps  cpu_srv=0.31 cpu_sys= 31.2%  jain=1.000 valid=1 power=ac
+run   3 rep 2 N=10     4069.2 Mbps  cpu_srv=1.66 cpu_sys= 98.3%  jain=1.000 valid=1 power=ac
+run   4 rep 2 N= 1      883.3 Mbps  cpu_srv=0.32 cpu_sys= 47.5%  jain=1.000 valid=1 power=ac
+run   5 rep 3 N= 1     1050.3 Mbps  cpu_srv=0.30 cpu_sys= 33.4%  jain=1.000 valid=1 power=ac
+run   6 rep 3 N=10     4249.1 Mbps  cpu_srv=1.71 cpu_sys= 96.5%  jain=1.000 valid=1 power=ac
+# fim 2026-11-07T10:20:48 -> C:\VSCODE\redes-sockets-tcp\results\raw\block_4096.csv
+# block_16384: Windows-11-10.0.26300-SP0 | energia=ac | 2026-11-07T10:20:49
+run   1 rep 1 N=10    15046.6 Mbps  cpu_srv=1.54 cpu_sys= 98.2%  jain=1.000 valid=1 power=ac
+run   2 rep 1 N= 1     3597.4 Mbps  cpu_srv=0.30 cpu_sys= 38.6%  jain=1.000 valid=1 power=ac
+run   3 rep 2 N=10    16554.5 Mbps  cpu_srv=1.74 cpu_sys= 95.4%  jain=1.000 valid=1 power=ac
+run   4 rep 2 N= 1     3855.9 Mbps  cpu_srv=0.29 cpu_sys= 32.1%  jain=1.000 valid=1 power=ac
+run   5 rep 3 N= 1     3614.4 Mbps  cpu_srv=0.31 cpu_sys= 39.1%  jain=1.000 valid=1 power=ac
+run   6 rep 3 N=10    16299.7 Mbps  cpu_srv=1.75 cpu_sys= 95.9%  jain=1.000 valid=1 power=ac
+# fim 2026-11-07T10:21:55 -> C:\VSCODE\redes-sockets-tcp\results\raw\block_16384.csv
+# block_65536: Windows-11-10.0.26300-SP0 | energia=ac | 2026-11-07T10:21:56
+run   1 rep 1 N=10    42025.9 Mbps  cpu_srv=1.27 cpu_sys= 97.2%  jain=0.998 valid=1 power=ac
+run   2 rep 1 N= 1    10014.6 Mbps  cpu_srv=0.25 cpu_sys= 36.2%  jain=1.000 valid=1 power=ac
+run   3 rep 2 N=10    38432.0 Mbps  cpu_srv=1.15 cpu_sys= 98.9%  jain=0.996 valid=1 power=ac
+run   4 rep 2 N= 1     9592.6 Mbps  cpu_srv=0.19 cpu_sys= 38.0%  jain=1.000 valid=1 power=ac
+run   5 rep 3 N= 1     9511.2 Mbps  cpu_srv=0.20 cpu_sys= 34.5%  jain=1.000 valid=1 power=ac
+run   6 rep 3 N=10    39662.1 Mbps  cpu_srv=1.29 cpu_sys= 97.9%  jain=0.996 valid=1 power=ac
+# fim 2026-11-07T10:23:03 -> C:\VSCODE\redes-sockets-tcp\results\raw\block_65536.csv
+# block_262144: Windows-11-10.0.26300-SP0 | energia=ac | 2026-11-07T10:23:03
+run   1 rep 1 N=10    39334.4 Mbps  cpu_srv=1.81 cpu_sys=100.0%  jain=0.996 valid=1 power=ac
+run   2 rep 1 N= 1    13945.8 Mbps  cpu_srv=0.27 cpu_sys= 37.6%  jain=1.000 valid=1 power=ac
+run   3 rep 2 N=10    41541.9 Mbps  cpu_srv=1.94 cpu_sys= 99.1%  jain=0.999 valid=1 power=ac
+run   4 rep 2 N= 1    14032.5 Mbps  cpu_srv=0.23 cpu_sys= 33.4%  jain=1.000 valid=1 power=ac
+run   5 rep 3 N= 1    13355.1 Mbps  cpu_srv=0.27 cpu_sys= 40.9%  jain=1.000 valid=1 power=ac
+run   6 rep 3 N=10    41387.6 Mbps  cpu_srv=1.89 cpu_sys= 99.3%  jain=0.997 valid=1 power=ac
+# fim 2026-11-07T10:24:10 -> C:\VSCODE\redes-sockets-tcp\results\raw\block_262144.csv
+DONE
